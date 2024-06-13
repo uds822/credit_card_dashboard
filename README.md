@@ -64,17 +64,14 @@ Previous_week_Reveneue = CALCULATE(
   - Customer count increased by xx%
 - **Overview YTD:**
   - Overall revenue is 57M
-  - Total interest is 8M
+  - Total interest is 7.98M
   - Total transaction amount is 46M
   - Male customers contributing more in revenue: 31M, female: 26M
   - Blue & Silver credit card contributing to 93% of overall transactions
   - TX, NY & CA contributing to 68%
   - Overall Activation rate is 57.5%
   - Overall Delinquent rate is 6.06%
-## Screenshots
-### Dashboard Overview
-![Dashboard Overview]()
-### Transaction Analysis
-![Transaction Analysis]()
 ## Download
-[Download the Power BI report]()
+-[novypro link](https://project.novypro.com/9MeOyj)
+
+-[Download the Power BI report](https://github.com/uds822/credit_card_dashboard/blob/main/credit_card_report.pdf)
